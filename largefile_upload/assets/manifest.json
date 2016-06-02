@@ -1,0 +1,9 @@
+{
+  "commons": {
+    "js": "/static/commons.js"
+  },
+  "upload": {
+    "js": "/static/upload.js",
+    "css": "/static/upload.css"
+  }
+}
